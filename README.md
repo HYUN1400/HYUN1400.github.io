@@ -1,4 +1,4 @@
-# [Frontend](https://HYUN1400.github.io) &middot; [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://HYUN1400.github.io/license)
+# [Frontend](https://HYUN1400.github.io) &middot; [![Github license](https://img.shields.io/badge/license-MIT-blue.svg)](https://HYUN1400.github.io/LICENSE)
 
 자바스크립트 기반 웹 서버 프로그래밍 풀스택 개발 과정
 
